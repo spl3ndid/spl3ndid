@@ -73,7 +73,7 @@ Interactive visualization platform that transforms GitHub data into actionable i
 
 ---
 
-### 🌟 AI News Summarizer Bot
+### 🌟 [AI News Summarizer Bot](https://github.com/spl3ndid/AI-News-Summarizer-Bot)
 > **Status:** Complete & Open Source
 
 A Python-based application that leverages NLP to deliver concise news insights:
