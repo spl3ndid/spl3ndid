@@ -73,6 +73,20 @@ Interactive visualization platform that transforms GitHub data into actionable i
 
 ---
 
+### 🌟 AI News Summarizer Bot
+> **Status:** Complete & Open Source
+
+A Python-based application that leverages NLP to deliver concise news insights:
+- Fetches latest news articles from NewsAPI across customizable categories and regions
+- Summarizes article content using transformer-based models (T5)
+- Performs sentiment analysis to classify articles as positive, neutral, or negative
+- Exports results to CSV for easy tracking and analysis
+- Features an interactive workflow for personalized news consumption
+
+**Tech Stack:** Python, Hugging Face Transformers, NewsAPI, pandas
+
+---
+
 ### ❌⭕ [TicTacToe AI: Impossible Mode](https://github.com/spl3ndid/tic-tac-toe-ai-impossible)
 > **Status:** Completed & Deployed
 
