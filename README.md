@@ -48,7 +48,7 @@ I leverage AI to tackle challenges in sustainability, automation, and tech-for-g
 ## 📊 Featured Projects
 
 ### 🧾 Document Intelligence Platform
-> **Status:** In Development (2025 Goal)
+> **Status:** In Development (2026 Goal)
 
 A comprehensive solution for automated document processing that combines OCR, machine learning, and NLP to:
 - Extract structured information from unstructured documents
@@ -70,20 +70,6 @@ Interactive visualization platform that transforms GitHub data into actionable i
 
 **Tech Stack:** Python, GitHub API, Plotly, pandas
 
-
----
-
-### 🌟 [AI News Summarizer Bot](https://github.com/spl3ndid/AI-News-Summarizer-Bot)
-> **Status:** Complete & Open Source
-
-A Python-based application that leverages NLP to deliver concise news insights:
-- Fetches latest news articles from NewsAPI across customizable categories and regions
-- Summarizes article content using transformer-based models (T5)
-- Performs sentiment analysis to classify articles as positive, neutral, or negative
-- Exports results to CSV for easy tracking and analysis
-- Features an interactive workflow for personalized news consumption
-
-**Tech Stack:** Python, Hugging Face Transformers, NewsAPI, pandas
 
 ---
 
